@@ -2,7 +2,7 @@
 
 🎓 **Bacharel em Análise e Desenvolvimento de Sistemas | Desenvolvedor em formação**
 
-Seja bem-vindo ao meu GitHub!
+Bem-vindo ao meu GitHub!
 
 Sou formado em Análise e Desenvolvimento de Sistemas pela Universidade de Fortaleza (UNIFOR) e estou construindo minha trajetória profissional na área de Tecnologia da Informação.
 
@@ -33,7 +33,7 @@ Acredito no aprendizado contínuo, na colaboração e na tecnologia como ferrame
 
 ![AI](https://img.shields.io/badge/Inteligência_Artificial-412991?style=for-the-badge&logo=openai&logoColor=white)
 
-### 🔧 Outras áreas
+### 🔧 Outros conhecimentos
 
 - Programação Orientada a Objetos (POO)
 - Lógica de programação
@@ -41,6 +41,7 @@ Acredito no aprendizado contínuo, na colaboração e na tecnologia como ferrame
 - Ferramentas de Inteligência Artificial
 - Git e GitHub
 - Desenvolvimento de projetos acadêmicos
+- Resolução de problemas e aprendizado autodidata
 
 📚 **Atualmente estudando:** JavaScript, Node.js, SQL e aprimorando minhas habilidades em desenvolvimento de software.
 
@@ -49,27 +50,74 @@ Acredito no aprendizado contínuo, na colaboração e na tecnologia como ferrame
 ## 📂 Projetos em destaque
 
 ### 🧮 Calculadora de Gastos
+
 Projeto desenvolvido em Python com foco na organização e no controle de despesas.
 
 **Tecnologias:** Python e lógica de programação.
 
+🔗 [Acessar meus repositórios](https://github.com/PJharp?tab=repositories)
+
 ### 📅 Agenda Pessoal
+
 Projeto acadêmico voltado para a organização de compromissos e atividades pessoais.
 
 **Objetivo:** praticar lógica de programação e desenvolvimento de aplicações.
 
+🔗 [Acessar meus repositórios](https://github.com/PJharp?tab=repositories)
+
 ### 🎓 Minha Universidade
+
 Projeto desenvolvido em Java com foco nos conceitos de Programação Orientada a Objetos.
 
-**Conceitos:** classes, objetos, herança, encapsulamento e ArrayList.
+**Conceitos praticados:**
+- Classes e objetos
+- Herança
+- Encapsulamento
+- ArrayList
+
+🔗 [Acessar meus repositórios](https://github.com/PJharp?tab=repositories)
 
 ### 🌱 Projeto Social — Inclusão Digital
-Iniciativa independente de montagem de computadores para crianças de comunidades em situação de vulnerabilidade social.
+
+Iniciativa independente de recuperação e montagem de computadores para crianças e adolescentes de comunidades em situação de vulnerabilidade social.
 
 **Objetivo:** contribuir para a inclusão digital e ampliar o acesso à tecnologia.
 
 ---
 
+## 📈 Minha trajetória na tecnologia
 
+Minha jornada representa uma evolução contínua, desde a formação acadêmica até o desenvolvimento de projetos práticos e a preparação para o mercado de trabalho.
 
-⭐ *Obrigado por visitar meu perfil! Fique à vontade para explorar meus projetos e acompanhar minha evolução na tecnologia.*
+| Etapa | Desenvolvimento |
+|---|---|
+| 🎓 Formação | Análise e Desenvolvimento de Sistemas — UNIFOR |
+| 💻 Fundamentos | Lógica de programação e Python |
+| 🧩 Desenvolvimento | Programação Orientada a Objetos e projetos acadêmicos |
+| 🚀 Formação complementar | Programadores do Amanhã — JavaScript e Node.js |
+| 🗄️ Aprimoramento | SQL, banco de dados e desenvolvimento de software |
+| 🤖 Exploração | Inteligência Artificial e ferramentas de produtividade |
+| 🌱 Impacto social | Iniciativa independente de inclusão digital |
+| 🎯 Próximo objetivo | Primeira oportunidade profissional formal em TI |
+
+---
+
+## 📊 Estatísticas do GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PJharp&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PJharp&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br)
+
+---
+
+## 🔗 Onde me encontrar
+
+[![GitHub](https://img.shields.io/badge/GitHub-PJharp-181717?style=for-the-badge&logo=github)](https://github.com/PJharp)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil_Profissional-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+
+---
+
+⭐ Obrigado por visitar meu perfil!
+
+Fique à vontade para explorar meus projetos, acompanhar minha evolução e entrar em contato para oportunidades e colaborações na área de tecnologia.
